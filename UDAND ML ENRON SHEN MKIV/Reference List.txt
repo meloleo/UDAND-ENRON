@@ -1,0 +1,13 @@
+Reference List:
+- https://discussions.udacity.com/t/pickling-pandas-df/174753/2
+- https://stackoverflow.com/questions/25579227/seaborn-implot-with-equation-and-r2-text
+- https://www.quora.com/What-is-the-best-way-to-handle-outliers-in-Machine-Learning
+- https://www.theanalysisfactor.com/outliers-to-drop-or-not-to-drop/
+- https://stackoverflow.com/questions/29229600/counting-number-of-zeros-per-row-by-pandas-dataframe
+- https://stackoverflow.com/questions/17778394/list-highest-correlation-pairs-from-a-large-correlation-matrix-in-pandas
+- https://discussions.udacity.com/t/pickling-pandas-df/174753/2
+- https://www.civisanalytics.com/blog/workflows-in-python-using-pipeline-and-gridsearchcv-for-more-compact-and-comprehensive-code/
+- https://stackoverflow.com/questions/40257492/gridsearchcv-with-stratifiedkfold
+- https://discussions.udacity.com/t/precision-is-ill-defined-and-being-set-to-0-0-due-to-no-predicted-samples/343714
+- http://blog.datadive.net/selecting-good-features-part-iii-random-forests/
+- https://discussions.udacity.com/t/how-to-find-out-the-features-selected-by-selectkbest/45118/4
