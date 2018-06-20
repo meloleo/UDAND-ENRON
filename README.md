@@ -8,7 +8,7 @@ The dataset provided includes people who were already classified as a **POI** i.
 ## Installation
 The scripts use Python 2.7; ensure that the appropriate environment is selected.
 
-1. Clone my repository and the Udacity Intro to Machine Learning repository using Github Desktop or Terminal. (https://www.cs.cmu.edu/~enron/).
+1. Clone my repository and the Udacity Intro to Machine Learning repository using Github Desktop or Terminal.
 
     ```
     $ git clone https://github.com/meloleo/UDAND-ENRON.git
