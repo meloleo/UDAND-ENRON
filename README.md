@@ -6,7 +6,7 @@ This project uses data from the Enron email corpus to identify someone as a **'P
 The dataset provided includes people who were already classified as a **POI** i.e. an individual who was indicted, reached a settlement or plea deal, or testified in exchange for immunity. This project analyzed the data of these POIs (and non-POIs), and came up with a predictive algorithm that could accurately guess whether a new data point with similar features was or was not a POI.
 
 ## Installation
-The scripts use Python 2.7; ensure that the appropriate environment is selected.
+The scripts use Python 2.7; ensure that the appropriate Python environment is used. Necessary libraries are all included in import statements in `poi_id.py`.
 
 1. Clone my repository and the Udacity Intro to Machine Learning repository using Github Desktop or Terminal.
 
@@ -16,5 +16,5 @@ The scripts use Python 2.7; ensure that the appropriate environment is selected.
     $ git clone https://github.com/udacity/ud120-projects.git
     ```
 
-2. Once the repositories are cloned, copy and paste the files in UDAND-ENRON repository into the other repository, specifically the folder "final_project".
+2. Once the repositories are cloned, copy and paste the files from UDAND-ENRON repository into the other repository, specifically the folder "final_project", as it relies on utility files in that repository.
 3. Run `poi_id.py`.
